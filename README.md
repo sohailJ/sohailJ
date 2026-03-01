@@ -8,12 +8,12 @@
 
 ---
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-4uozsz4qy-sohailjs-projects.vercel.app/api?username=sohailJ&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sohail's Stats" />
   <br/>
   <img src="https://github-readme-stats-4uozsz4qy-sohailjs-projects.vercel.app/api/top-langs/?username=sohailJ&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
