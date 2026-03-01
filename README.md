@@ -10,10 +10,9 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohailJ&theme=radical" alt="Sohail's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohailJ&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-4uozsz4qy-sohailjs-projects.vercel.app/api?username=sohailJ&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sohail's Stats" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailJ&theme=radical" alt="Profile Details" />
+  <img src="https://github-readme-stats-4uozsz4qy-sohailjs-projects.vercel.app/api/top-langs/?username=sohailJ&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
