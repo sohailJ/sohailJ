@@ -3,10 +3,9 @@
 ### 👨‍💻 About Me
 
 - 🚀 I'm currently working on **Odoo development**
-- 💬 Ask me about **Python, Odoo, Django**
 - 📫 How to reach me: [GitHub](https://github.com/sohailJ)
 
----
+<!-- --- -->
 
 <!-- ### 📊 My GitHub Stats
 <p align="center">
