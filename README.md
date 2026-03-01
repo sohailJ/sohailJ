@@ -25,7 +25,7 @@
 ---
 
 ### 🔥 My Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohailJ&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sohailJ&theme=radical)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
