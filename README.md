@@ -10,16 +10,10 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohailJ&show_icons=true&theme=radical" alt="Sohail's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohailJ&theme=radical" alt="Sohail's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohailJ&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailJ&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=sohailJ&theme=onedark" alt="Sohail's Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailJ&theme=radical" alt="Profile Details" />
 </p>
 
 ---
