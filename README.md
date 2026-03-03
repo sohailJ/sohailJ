@@ -2,8 +2,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 I'm currently working on **Odoo development**
-- 📫 How to reach me: [GitHub](https://github.com/sohailJ)
+- 🚀 I'm currently working mainly on **Odoo development** and other little side projects
 
 <!-- --- -->
 
