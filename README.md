@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 I'm currently working mainly on **Odoo development** and other little side projects
-- Going back to fundamentals to fill the gaps as I did not follow a classical cs degree program, rather I learned a lot on the fly and I feel the need to close those gaps to go progress faster.
+- Going back to fundamentals to fill the gaps as I did not follow a classical cs degree program, rather I learned a lot on the fly and I feel the need to close those gaps to go progress faster. Documented [here](https://github.com/sohailJ/teachyourselfcs-journey)
 
 <!-- --- -->
 
